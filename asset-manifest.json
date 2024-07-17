@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pagosyllabi/static/css/main.5c234d08.css",
+    "main.js": "/pagosyllabi/static/js/main.d1a0a9f6.js",
+    "static/js/453.99774321.chunk.js": "/pagosyllabi/static/js/453.99774321.chunk.js",
+    "index.html": "/pagosyllabi/index.html",
+    "main.5c234d08.css.map": "/pagosyllabi/static/css/main.5c234d08.css.map",
+    "main.d1a0a9f6.js.map": "/pagosyllabi/static/js/main.d1a0a9f6.js.map",
+    "453.99774321.chunk.js.map": "/pagosyllabi/static/js/453.99774321.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c234d08.css",
+    "static/js/main.d1a0a9f6.js"
+  ]
+}
